@@ -1,5 +1,7 @@
 # GitHub Activity Generator 🚀
-A script that helps you instantly generate a beautiful GitHub Contributions Graph for the last year.
+
+![License](https://img.shields.io/github/license/shariquetelco/github-activity-generator)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## ⚠ Disclaimer
 This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
